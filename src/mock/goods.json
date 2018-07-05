@@ -1,0 +1,20 @@
+{
+  "error": 0,
+  "data": {
+    "status": 0,
+    "result": [
+      {
+        "userId": "001",
+        "userName": "ice"
+      },
+      {
+        "userId": "002",
+        "userName": "ice"
+      },
+      {
+        "userId": "003",
+        "userName": "ice"
+      }
+    ]
+  }
+}
